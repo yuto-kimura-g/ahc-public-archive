@@ -2,5 +2,6 @@
 
 油田の位置を推定するやつ
 
-seed:0 / cost:1.13
 ![vis](/docs/vis.gif)
+
+seed:0 / cost:1.13

@@ -2,5 +2,6 @@
 
 地図を縮約する
 
-seed:0 / score:1439
 ![vis](/docs/vis.gif)
+
+seed:0 / score:1439
