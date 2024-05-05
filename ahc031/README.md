@@ -1,0 +1,1 @@
+<https://atcoder.jp/contests/ahc031/tasks/ahc031_a>
