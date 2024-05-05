@@ -2,6 +2,6 @@
 
 地図を縮約する
 
-![vis](/docs/vis.gif)
+![vis](./docs/vis.gif)
 
 seed:0 / score:1439
